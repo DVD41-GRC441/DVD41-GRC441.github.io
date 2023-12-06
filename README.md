@@ -7,7 +7,7 @@ EEEE
 *EEEEE*
 **EEEEEEE**
 
-![Strawberry Crepe Cookie](https://cdn.comic.studio/images/cookierun/characters/74e1fdba337b0f75bbc519783f14f618/default.png)
+![Slayed]([[https://cdn.comic.studio/images/cookierun/characters/74e1fdba337b0f75bbc519783f14f618/default.png](https://pbs.twimg.com/media/FC0cKvnaAAAVyP5?format=jpg&name=4096x4096)](https://i1.sndcdn.com/artworks-BGypK94ZZv9haLvH-GkwSig-t500x500.jpg)](https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Twice_-_Doughnut.png/220px-Twice_-_Doughnut.png))
 
 | Y | X | Y |
 |---|---|---|
